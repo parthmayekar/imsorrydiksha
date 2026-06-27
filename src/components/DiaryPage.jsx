@@ -53,7 +53,7 @@ export default function DiaryPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
           >
             <p className="text-purple-200 text-lg mb-8 leading-relaxed">
-              I've been sitting here for hours, trying to find the right words...
+              i genuinely tried my hardest to make this shit look slightly appealing
             </p>
 
             <motion.button
