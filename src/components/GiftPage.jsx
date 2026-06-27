@@ -52,7 +52,7 @@ export default function GiftPage() {
         transition={{ duration: 1 }}
         className="text-3xl text-pink-300 mb-16"
       >
-        I have something special for you... 💝
+        teehee smthg special for u💝
       </motion.h2>
 
       <motion.div
