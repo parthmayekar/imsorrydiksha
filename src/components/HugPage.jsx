@@ -104,7 +104,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          miss ur hugs :( </3
+          miss ur hugs :(
         </motion.p>
       </motion.div>
 
